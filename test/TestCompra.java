@@ -31,6 +31,7 @@ public class TestCompra extends TestCase {
     
         Assert.assertEquals(1800, compraDesc10.getTotal());
         Assert.assertEquals(2970, compraDesc1.getTotal());
+        System.out.println("Guilherme aqui");
     }
     
     public TestCompra() {
