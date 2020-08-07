@@ -34,6 +34,8 @@ public class TestCompra extends TestCase {
         System.out.println("Guilherme aqui");
         
         System.out.println("Guilherme B. Corrêa");
+        System.out.println("Guilherme testando mais uma vez");
+        
     }
     
     public TestCompra() {
